@@ -1,0 +1,22 @@
+{
+  "name": "fhs-tdd-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webpapaya/fhs-tdd-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webpapaya/fhs-tdd-starter/issues"
+  },
+  "homepage": "https://github.com/webpapaya/fhs-tdd-starter#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
